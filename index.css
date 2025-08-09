@@ -34,6 +34,10 @@ ul img {
     width: 25px;
 }
 
+.align-right {
+    margin-left: auto;
+}
+
 h1 {
     font-size: 40px;
     font-weight: 400;
